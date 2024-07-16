@@ -24,6 +24,9 @@ Before starting this project, the following technical prerequisites are recommen
 - Dataset: Titanic dataset
 - Prerequisite Knowledge: Data Science, Python
 
+  ![image](https://github.com/user-attachments/assets/d644b593-af46-485e-8001-e57dc4f6cc69)
+
+
 ## Project Highlights
 
 The Titanic binary classification project successfully predicted passenger survival with an accuracy of 83% using the Random Forest Classifier. The project involved comprehensive data preprocessing, feature engineering, and model evaluation. The final model was deployed as a web service, demonstrating the entire workflow from data analysis to model deployment.
